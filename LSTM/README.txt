@@ -1,0 +1,1 @@
+There're two files in the submission: LSTM a jupyer notebook which contains codes and printed output (e.g. top 35 errors, training epochs, test errors), and HW1.pdf contains error analysis and comparing bin log loss to log loss.

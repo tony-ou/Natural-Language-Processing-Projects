@@ -1,0 +1,1 @@
+Code and analysis both in the jupyter notebook. No separate latex file this time.

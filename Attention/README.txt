@@ -1,0 +1,1 @@
+There're two files in the submission: attention is a jupyer notebook which contains codes and printed output (e.g. top 15 norm words, training epochs, test errors), and hw2.pdf contains analysis.
